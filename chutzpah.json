@@ -1,0 +1,21 @@
+{
+    "Framework": "qunit",
+	"TestFileTimeout": 9999999
+	"References": [
+		{ "Path" : "./Libraries/qunit.js", "IsTestFrameworkFile" : true  },
+		{ "Path" : "./Libraries/pavlov.js", "IsTestFrameworkFile" : true  },
+		{ "Path" : "Code.js" }
+    ],
+	
+	"CodeCoverageIncludes": [
+		"*Code.js"
+		]
+}
+
+
+		
+
+
+
+
+
